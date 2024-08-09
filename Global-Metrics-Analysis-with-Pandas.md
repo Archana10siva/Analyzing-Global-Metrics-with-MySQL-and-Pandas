@@ -15,7 +15,7 @@
 - Decimal Cleaning : Replaced commas with period.
 
 
-#Feature Engineering:
+=> Feature Engineering:
 
 - Added a column for GDP per capita to enhance economic analysis.
 - Created categorical columns for population density for categorical analysis.
@@ -23,7 +23,7 @@
 - Created a categorical column for climate to do categorical analysis.
 
 
-#SQL Analysis:
+=> Analysis:
 
 - Identified countries with the highest and lowest populations.
 - Analyzed the largest and smallest countries by land area.
@@ -46,7 +46,7 @@
 - Investigated climate distribution across continents.
 
 
-#Skills Demonstrated:
+=> Skills Demonstrated:
 - Data Cleaning and Preparation : Ensuring data integrity for analysis.
 - Pandas : Writing and executing complex queries for data extraction and manipulation.
 - Data Analysis : Interpreting complex datasets using Pandas.
