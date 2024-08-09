@@ -1,21 +1,18 @@
 
-**Global-Metrics-Analysis-with-MySQL**
+**Global-Metrics-Analysis-with-Pandas**
 
 => Data Preview :
 
 - Viewing the entire dataset to understand the data.
-- Count : the number of rows to understand the data size.
+- Shape : the number of rows and columns to understand the data size.
+- Data type : Checked the data Types
 
 
 => Data Cleaning:
 
-- Decimal Cleaning: Replaced commas with period.
-- Handling Missing Values: Converted empty strings to NULL.
-
-
-=> Data Type Conversion:
-
-- Converted appropriate columns to integer and float data types.
+- Missing value detection and handling
+- Data Type Conversion
+- Decimal Cleaning : Replaced commas with period.
 
 
 #Feature Engineering:
@@ -51,6 +48,7 @@
 
 #Skills Demonstrated:
 - Data Cleaning and Preparation : Ensuring data integrity for analysis.
-- SQL : Writing and executing complex queries for data extraction and manipulation.
-- Data Analysis : Interpreting complex datasets using SQL.
+- Pandas : Writing and executing complex queries for data extraction and manipulation.
+- Data Analysis : Interpreting complex datasets using Pandas.
 - Insight Generation : Extracting meaningful insights and patterns from data.
+- Python
