@@ -1,5 +1,5 @@
 
-Global-Metrics-Analysis-with-MySQL
+**Global-Metrics-Analysis-with-MySQL**
 
 => Data Preview :
 
