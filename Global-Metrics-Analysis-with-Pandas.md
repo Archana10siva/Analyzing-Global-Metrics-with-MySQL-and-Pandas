@@ -47,7 +47,7 @@
 
 
 => Skills Demonstrated:
-- Data Cleaning and Preparation : Ensuring data integrity for analysis.
+- Data Cleaning and Preprocessing : Ensuring data integrity for analysis.
 - Pandas : Writing and executing complex queries for data extraction and manipulation.
 - Data Analysis : Interpreting complex datasets using Pandas.
 - Insight Generation : Extracting meaningful insights and patterns from data.
